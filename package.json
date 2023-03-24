@@ -17,5 +17,10 @@
         "path": "./themes/Just Right Dark Theme-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bransonsmith/just-right-dark-theme"
+  },
+  "license": "ISC"
 }

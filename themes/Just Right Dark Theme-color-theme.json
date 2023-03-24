@@ -166,7 +166,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#e06670"
+				"foreground": "#ec9084"
 			}
 		},
 		{
@@ -181,7 +181,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#d1e4ec"
+				"foreground": "#75acac"
 			}
 		},
 		{
@@ -220,7 +220,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#d1e4ec"
+				"foreground": "#bdd5df"
 			}
 		},
 		{
@@ -290,7 +290,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#d1e4ec"
+				"foreground": "#76c3b1"
 			}
 		},
 		{
@@ -299,7 +299,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#d1e4ec"
+				"foreground": "#cce4ee"
 			}
 		},
 		{
