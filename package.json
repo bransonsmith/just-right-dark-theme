@@ -22,5 +22,6 @@
     "type": "git",
     "url": "git://github.com/bransonsmith/just-right-dark-theme"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "publisher": "justrightdarkthemebsdev"
 }
