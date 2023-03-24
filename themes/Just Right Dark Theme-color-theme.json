@@ -87,7 +87,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#89f2d2"
+				"foreground": "#56d2ad"
 			}
 		},
 		{
@@ -107,7 +107,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89f2d2"
+				"foreground": "#56d2ad"
 			}
 		},
 		{
@@ -166,7 +166,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#ec9084"
+				"foreground": "#ec8484"
 			}
 		},
 		{
