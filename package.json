@@ -1,0 +1,21 @@
+{
+  "name": "just-right-dark-theme",
+  "displayName": "Just Right Dark Theme",
+  "description": "Not too dark, not too colorful",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Just Right Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Just Right Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
