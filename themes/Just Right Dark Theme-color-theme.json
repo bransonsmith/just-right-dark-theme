@@ -36,7 +36,17 @@
 		"sideBarTitle.foreground": "#98a3a3",
 		"terminal.background": "#1a1d22",
 		"statusBar.background": "#0c0c10",
-		"statusBar.foreground": "#98a3a3"
+		"statusBar.foreground": "#98a3a3",
+		"editorBracketHighlight.foreground1": "#a1a45a",
+		"editorBracketHighlight.foreground2": "#a57edf",
+		"editorBracketHighlight.foreground3": "#a5615a",	
+		"editorBracketHighlight.foreground4": "#63bf94",
+		"editorBracketHighlight.foreground5": "#539da5",
+		"editorBracketHighlight.foreground6": "#98a3a3",
+		"editorBracketHighlight.unexpectedBracket.foreground": "#bf1919",
+		"editorBracketMatch.border": "#c67f77",
+		"editorBracketMatch.background": "#000000",	
+
 	},
 	"tokenColors": [
 		{
