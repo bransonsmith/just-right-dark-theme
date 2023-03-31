@@ -2,7 +2,7 @@
   "name": "just-right-dark-theme",
   "displayName": "Just Right Dark Theme",
   "description": "Not too dark, not too colorful",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.76.0"
   },
